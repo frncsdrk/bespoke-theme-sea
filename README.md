@@ -2,7 +2,7 @@
 
 # bespoke-theme-sea
 
-A theme for [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) as blue as the sea &mdash; [View demo](http://frncsdrk.github.io/bespoke-theme-sea)
+A theme as blue as the sea for [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) &mdash; [View demo](http://frncsdrk.github.io/bespoke-theme-sea)
 
 ## Download
 
