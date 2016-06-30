@@ -1,5 +1,5 @@
 /*!
- * bespoke-theme-sea v0.3.0
+ * bespoke-theme-sea v0.3.1
  *
  * Copyright 2016, 
  * This content is released under the MIT license
