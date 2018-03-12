@@ -1,11 +1,11 @@
 {
   "name": "bespoke-theme-sea",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A theme as blue as the sea for Bespoke.js",
   "homepage": "https://github.com/frncsdrk/bespoke-theme-sea",
   "bugs": "https://github.com/frncsdrk/bespoke-theme-sea/issues",
   "author": {
-    "name": null,
+    "name": "frncsdrk",
     "url": "https://github.com/frncsdrk"
   },
   "main": "./dist/bespoke-theme-sea.js",
@@ -14,8 +14,9 @@
     "url": "git://github.com/frncsdrk/bespoke-theme-sea.git"
   },
   "scripts": {
-    "test": "gulp"
-    , "publish": "git subtree push --prefix demo/dist origin gh-pages"
+    "demo": "gulp demo",
+    "test": "gulp",
+    "publish": "git subtree push --prefix demo/dist origin gh-pages"
   },
   "peerDependencies": {
     "bespoke": ">=1.0.0"
