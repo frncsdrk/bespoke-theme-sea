@@ -16,7 +16,7 @@
   "scripts": {
     "demo": "gulp demo",
     "test": "gulp",
-    "publish": "git subtree push --prefix demo/dist origin gh-pages"
+    "publish": "git push origin `git subtree push --prefix demo/dist origin gh-pages`:gh-pages --force"
   },
   "peerDependencies": {
     "bespoke": ">=1.0.0"
